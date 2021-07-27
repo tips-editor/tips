@@ -8,7 +8,7 @@ All existing dynamic parameters can be found on Tronscan [committee page](https:
 
 This document is mainly used to record important proposals on TRON.
 
-|  Voting Request No. | TRON network parameter No.| Summary |Proposal Detail Description | Mainnet Version | Status | Effective time
+|  Voting Request No. | TRON network parameter No.| Summary |Proposal Description | Mainnet Version | Status | Effective time
 |  ----  | ----  | :----: | :-------------------: |:----:  | :----: | :----: | 
 |[67](https://tronscan.org/#/proposal/67)|3, 7|Increase the bandwidth unit price and system contract creation account fees|[Proposal 286](https://github.com/tronprotocol/tips/issues/286)|[GreatVoyage-v4.2.2.1](https://github.com/tronprotocol/java-tron/releases/tag/GreatVoyage-v4.2.2.1)|EFFECTIVE|2021-07-26
 |[61](https://tronscan.org/#/proposal/61)|13| Change transaction maximum execution time to 80ms|[Proposal 265](https://github.com/tronprotocol/tips/issues/265)|[GreatVoyage-v4.2.0](https://github.com/tronprotocol/java-tron/releases/tag/GreatVoyage-v4.2.0)|EFFECTIVE|2021-05-10
